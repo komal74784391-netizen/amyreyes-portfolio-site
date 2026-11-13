@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "code": "KVC",
+      "name": "KV-Cache Compression Toolkit"
+    },
+    {
+      "code": "GJS",
+      "name": "Graph Job Scheduler"
+    },
+    {
+      "code": "FDR",
+      "name": "Federated Retrieval Engine"
+    },
+    {
+      "code": "SAK",
+      "name": "Sparse Attention Kernels"
+    }
+  ]
+}

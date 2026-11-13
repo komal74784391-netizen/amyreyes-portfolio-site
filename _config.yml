@@ -1,0 +1,6 @@
+title: Amy Reyes - Research Portfolio
+description: Publications and project notes
+baseurl: ""
+collections:
+  items:
+    output: true
