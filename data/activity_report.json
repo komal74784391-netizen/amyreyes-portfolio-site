@@ -1,38 +1,5 @@
 {
   "export_window": "2026-01-01 to 2026-10-31",
-  "total_events": 1200,
-  "projects": [
-    {
-      "code": "FDR",
-      "name": "Federated Retrieval Engine",
-      "events": 300,
-      "lines_changed": 117584,
-      "last_event_date": "2026-10-30",
-      "maintenance_status": "active"
-    },
-    {
-      "code": "GJS",
-      "name": "Graph Job Scheduler",
-      "events": 300,
-      "lines_changed": 114543,
-      "last_event_date": "2026-06-18",
-      "maintenance_status": "dormant"
-    },
-    {
-      "code": "KVC",
-      "name": "KV-Cache Compression Toolkit",
-      "events": 300,
-      "lines_changed": 120326,
-      "last_event_date": "2026-10-28",
-      "maintenance_status": "active"
-    },
-    {
-      "code": "SAK",
-      "name": "Sparse Attention Kernels",
-      "events": 300,
-      "lines_changed": 111773,
-      "last_event_date": "2026-10-25",
-      "maintenance_status": "active"
-    }
-  ]
+  "total_events": 0,
+  "projects": []
 }
